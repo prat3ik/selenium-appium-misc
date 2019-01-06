@@ -7,11 +7,11 @@ bin-release/
 # Other files and folders
 .settings/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# IntelliJ IDEA
+.idea
+
+# Output files
+out/
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
